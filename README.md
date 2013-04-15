@@ -4,7 +4,7 @@ This application uses the NVIDIA CUDA library to generate a Mandlebrot set quick
 
 ##Requirements:
 =====
-This application requires a CUDA compatible NVIDIA graphics card and CUDA 4.0 installed
+This application requires a CUDA compatible NVIDIA graphics card and CUDA 4.0 installed. It was also written on OSX 10.8.3 and tested on a Linux cluster.
 
 ##Compile:
 =====
