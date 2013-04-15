@@ -1,12 +1,6 @@
 /* 
  * File:   Complex.cu
- * 
- * Created on June 24, 2012
- * 
- * Purpose:  Simple complex number class for use on GPU
- * 
- * If it works, it was written by Brian Swenson.
- * Otherwise, I have no idea who wrote it.
+ * Simple complex number class for use with CUDA
  */
 
 class Complex 
